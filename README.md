@@ -5,8 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/elmaedesistemas)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/elmaedesistemas.dot/)
 
-<a href="https://app.daily.dev/cometacos"><img src="https://api.daily.dev/devcards/6caf1d1d161c403e9570a6d89274de32.png?r=wrv" width="400" alt="Deiby Mejia's Dev Card"/></a>
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=elmaedesistemas.elmaedesistemas)
 
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
@@ -34,6 +32,4 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmaedesistemas&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-
-
-
+<a href="https://app.daily.dev/cometacos"><img src="https://api.daily.dev/devcards/6caf1d1d161c403e9570a6d89274de32.png?r=wrv" width="400" alt="Deiby Mejia's Dev Card"/></a>
