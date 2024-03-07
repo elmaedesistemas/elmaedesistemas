@@ -32,4 +32,4 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmaedesistemas&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<a href="https://app.daily.dev/cometacos"><img src="https://api.daily.dev/devcards/6caf1d1d161c403e9570a6d89274de32.png?r=wrv" width="400" alt="Deiby Mejia's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/cometacos"><img src="https://api.daily.dev/devcards/6caf1d1d161c403e9570a6d89274de32.png?r=wrv" width="400" alt="Deiby Mejia's Dev Card"/></a>-->
