@@ -16,11 +16,11 @@ const Footer = () => {
             Developed by{" "}
             <a
               className="fn__link"
-              href="https://themeforest.net/user/trendycoder"
+              href="https://github.com/elmaedesistemas"
               target="_blank"
               rel="noreferrer"
             >
-              TrendyCoder
+              elmaedesistemas
             </a>
           </p>
         </div>

@@ -66,7 +66,7 @@ const Customers = () => {
           </div>
           {/* /Partners */}
           {/* Testimonials */}
-          <div className="resumo_fn_testimonials">
+          {/* <div className="resumo_fn_testimonials">
             <div className="my__nav">
               <a href="#" className="prev">
                 <span />
@@ -114,7 +114,7 @@ const Customers = () => {
                 </div>
               </SwiperSlide>
             </Swiper>
-          </div>
+          </div> */}
           {/* /Testimonials */}
         </div>
       </div>

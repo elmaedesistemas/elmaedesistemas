@@ -12,7 +12,9 @@ const Home = () => {
               Especializado en smart contracts, DeFi y NFTs, construyendo el futuro
               de las finanzas y la Web3 con tecnologías blockchain de vanguardia.
             </p>
-            <img src="img/signature.png" alt="image" />
+            <img src="img/signature.png" alt="image" style={{
+              marginTop: 20
+            }} />
           </div>
           {/* /Main Title */}
         </div>
